@@ -1,0 +1,36 @@
+body{
+  background-image: url("city.jpg");
+}
+.login {
+  width: 400px;
+  max-width: 80%;
+  max-height: 80%;
+  position: relative;
+  background: #888;
+  opacity: 90%;
+  padding: 20px;
+  margin: auto;
+  margin-top: 40px;
+  border-radius: 4px;
+  font-family: 'calibri';
+  color: white;
+}
+
+.login h4 {
+  font-size: 22px;
+  margin-bottom: 18px;
+  text-align: center;
+  color: white;
+}
+
+.login a {
+  color: white;
+  text-decoration: none;
+}
+
+.login a:hover {
+  color: white;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
