@@ -10,7 +10,7 @@ body{
   opacity: 90%;
   padding: 20px;
   margin: auto;
-  margin-top: 40px;
+  margin-top: 60px;
   border-radius: 4px;
   font-family: 'calibri';
   color: white;
@@ -34,3 +34,20 @@ body{
   font-weight: bold;
 }
 
+.formatcenter{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cancelbutton{
+  background-color: none;
+  border-color: darkgrey;
+}
+.warnings{
+  width: 200px;
+  text-align: center;
+  margin: auto;
+  color: white;
+  padding-top: 20px;
+}
